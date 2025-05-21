@@ -2,9 +2,8 @@
 
 This dataset contains anonymized indoor and outdoor air quality data collected from a commercial campus over a 25-month period, from **May 2023 to May 2025**. It is hosted in **Google Cloud Storage (GCS)** at:
 
-```
-gs://tellus-public-datasets/indoor-outdoor-commercial-campus/
-```
+[gs://tellus-public-datasets/indoor-outdoor-commercial-campus/](https://console.cloud.google.com/storage/browser/tellus-public-datasets/indoor-outdoor-commercial-campus)
+
 
 ## Contents
 
